@@ -1,0 +1,9 @@
+C:\Users\stud\Downloads\DES2\DES\DES\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\stud\Downloads\DES2\DES\DES\obj\Debug\protect_inf_LR1.exe
+C:\Users\stud\Downloads\DES2\DES\DES\obj\Debug\protect_inf_LR1.pdb
+C:\Users\stud\Downloads\DES2\DES\DES\bin\Debug\protect_inf_LR1.exe
+C:\Users\stud\Downloads\DES2\DES\DES\bin\Debug\protect_inf_LR1.pdb
+C:\Users\stud\Downloads\DES2\DES\DES\obj\Debug\DES.Form1.resources
+C:\Users\stud\Downloads\DES2\DES\DES\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\stud\Downloads\DES2\DES\DES\obj\Debug\DES.csproj.GenerateResource.Cache
+C:\Users\stud\Downloads\DES2\DES\DES\obj\Debug\DES.csprojResolveAssemblyReference.cache
